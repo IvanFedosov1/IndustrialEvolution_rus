@@ -3,7 +3,7 @@
     "skinHullId":"IndEvo_artilleryStation_mortar",
     "hullName":"Mortar Artillery",
     "descriptionId":"IndEvo_artilleryStation_base",
-    "descriptionPrefix":"This artillery station is equipped with a cannon the size of a destroyer, raining destabilized antimatter onto the battlefield. Primitive or regressed societies in star systems with mortar artilleries often use iconography depicting the shining red projectiles as harbingers of death, as they have a habit of hitting planets due to the sheer amount of shells fired in a volley. The long-range munitions are more potent than the tactical armaments used in close combat, which are nonetheless lethal.",
+    "descriptionPrefix":"Эта артиллерийская станция оснащена пушкой размером с эсминец, обрушивающей на поле боя дестабилизированное антивещество. Примитивные или деградировавшие общества в звездных системах с минометной артиллерией часто используют иконографию, изображающую сияющие красные снаряды как предвестников смерти, поскольку они имеют обыкновение попадать в планеты из-за огромного количества снарядов, выпущенных залпом. Дальнобойные боеприпасы более мощные, чем тактическое вооружение, используемое в ближнем бою, которое, тем не менее, смертельно опасно.",
     "tags":["IndEvo_Artillery"],
     "tech":"DSD",
     "spriteName":"graphics/ships/artillery_base_module.png",

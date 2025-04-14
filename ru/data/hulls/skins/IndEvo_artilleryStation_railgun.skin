@@ -3,7 +3,7 @@
     "skinHullId":"IndEvo_artilleryStation_railgun",
     "hullName":"Railgun Artillery",
     "descriptionId":"IndEvo_artilleryStation_base",
-    "descriptionPrefix":"The artillery station is armed with a massive railgun, launching shells of metal-turned-plasma at speeds unimaginable, which requires pre-ionized lanes of travel to stop them from ripping into hyperspace. Standard spacer operating protocol when encountering a railgun artillery is to engage full burn to the closest jump point - not that this has ever saved anyone.",
+    "descriptionPrefix":"Артиллерийская станция вооружена массивным рельсотроном, запускающим снаряды из металла, превращенного в плазму, с невообразимой скоростью, что требует предварительно ионизированных траекторий, чтобы остановить их от разрыва в гиперпространство. Стандартный протокол действий космонавтов при столкновении с рельсотронной артиллерией - включить полное ускорение до ближайшей точки прыжка - хотя это еще никого не спасло.",
     "tags":["IndEvo_Artillery"],
     "tech":"DSD",
     "spriteName":"graphics/ships/artillery_base_module.png",
